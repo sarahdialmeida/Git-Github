@@ -118,11 +118,11 @@ window.onbeforeunload = function() {
 ```
 
 ## Insert emojis 
-- colon e o nome do emoji - emojipedia.org)
+- colon +  shortcode + colon
 
 :vulcan_salute: :blush: :technologist:
 
-You will find all emoji´s shortcodes [here](https://github.com/ikatyang/emoji-cheat-sheet) Thanks @ikatyang 
+You will find all emoji´s shortcodes [here](https://github.com/ikatyang/emoji-cheat-sheet). Thanks @ikatyang!  	:smiley:
 
 ## To tag someone in GitHub:
 - just use @ 
