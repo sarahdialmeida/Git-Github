@@ -19,12 +19,14 @@ Markdown is a lightweight markup language with plain-text-formatting syntax, cre
 
 # <h1> text between double lines
 
-### Horizontal Rules 
+## Horizontal Rules 
 (***) or (___)
 ***
 
 
-### Unordered lists 
+
+
+## Unordered lists 
 (use asterisks, pluses, and hyphens - tab for subitens)
 - 1
     - 1.1
@@ -46,7 +48,7 @@ Markdown is a lightweight markup language with plain-text-formatting syntax, cre
 * 4
 * 5
 
-### Ordered lists using numbers 
+## Ordered lists using numbers 
 1. Iten 1
 2. Iten 2
    1. Iten 2.1
@@ -54,7 +56,7 @@ Markdown is a lightweight markup language with plain-text-formatting syntax, cre
    1. Iten 3.1
    2. Iten 3.2
 
-### Task lists 
+## Task lists 
 
 - [x] Study Github
 - [x] Create a repository for Git & Github documentation
