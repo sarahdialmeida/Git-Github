@@ -89,16 +89,30 @@ Suported files: gif, jpeg, jpg, png, docx, gz, log, pdf, pptx, txt, xlsx or zip.
 | Mary | salad  | 2    |
 
 
-## Code blocks
-O comando `document.getElementById().style.background = "url()"; ` é este.
+## Quotes or citations
+Introducing my quote:
 
-Code Blocks (colocar entre 3 crases ```)
+> Neque porro quisquam est qui 
+> dolorem ipsum quia dolor sit amet, 
+> consectetur, adipisci velit...
+
+## Code blocks
 
 ```
-<img src="logo-html.png" alt="Imagem HTML5">
-    <img src="imagens/logo-css.png" alt="logo-css">
-    <br>
-    <img src="https://www.jsdotgit.com/js-small.gif" alt="js-small">
+This is a code block
+```
+
+To add syntax highlighting to a code block, add the name of the language immediately
+after the backticks: 
+
+```javascript
+var oldUnload = window.onbeforeunload;
+window.onbeforeunload = function() {
+    saveCoverage();
+    if (oldUnload) {
+        return oldUnload.apply(this, arguments);
+    }
+};
 ```
 
 ## Insert emojis 
@@ -106,9 +120,9 @@ Code Blocks (colocar entre 3 crases ```)
 
 :vulcan_salute: :blush: :technologist:
 
-You will find all emoji´s shortcodes [here] (https://github.com/ikatyang/emoji-cheat-sheet) Thanks @ikatyang 
+You will find all emoji´s shortcodes [here](https://github.com/ikatyang/emoji-cheat-sheet) Thanks @ikatyang 
 
-## To tag someone:
+## To tag someone in GitHub:
 - just use @ 
 
 Exemple: @sarahdialmeida
