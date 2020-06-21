@@ -82,7 +82,7 @@ Suported files: gif, jpeg, jpg, png, docx, gz, log, pdf, pptx, txt, xlsx or zip.
 
 [Link to my GitHub](https://github.com/sarahdialmeida)
 
-### Tables
+## Tables
 
 
 | Name |  Meal  | Order|
