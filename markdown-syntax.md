@@ -1,4 +1,4 @@
-# Markdown Lenguage
+# Markdown Language
 Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor. Source: [Wikipedia](https://en.wikipedia.org/wiki/Markdown)
 
 # Title level 1
@@ -65,33 +65,31 @@ Markdown is a lightweight markup language with plain-text-formatting syntax, cre
 - [ ] Bake a cake
 
 
-Suported files: gif, jpeg, jpg, png, docx, gz, log, pdf, pptx, txt, xlsx ou zip.
-
-<!-- COMENTÁRIOS -->
-
-
 ## Inserting a image
 
 Suported files: gif, jpeg, jpg, png, docx, gz, log, pdf, pptx, txt, xlsx or zip.
 
-
 ![Description here](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Macaca_nigra_self-portrait_large.jpg/173px-Macaca_nigra_self-portrait_large.jpg)
 
-Create links: - (same to images, except for the !exclamation mark)
 
-[Acesse meu GitHub](https://github.com/romulocriston)
+<!-- COMENTS -->
 
-################ TABELA ##################
 
-(Usa pipe | para separar os campos/colunas da tabela)
+## Create links: 
+- same to images, except for the !exclamation mark
 
-| Num | Nome   | Nota |
-| --- | ------ | ---- |
-| 1   | Romulo | 10   |
-| 2   | Allana | 8    |
+[Link to my GitHub](https://github.com/sarahdialmeida)
 
-Exibir comandos (colocar o comando dentro de crase ``)
+### Tables
 
+
+| Name |  Meal  | Order|
+| -----| -----  | ---- |
+| Rose | quiche | 5    |
+| Mary | salad  | 2    |
+
+
+## Code blocks
 O comando `document.getElementById().style.background = "url()"; ` é este.
 
 Code Blocks (colocar entre 3 crases ```)
@@ -103,13 +101,17 @@ Code Blocks (colocar entre 3 crases ```)
     <img src="https://www.jsdotgit.com/js-small.gif" alt="js-small">
 ```
 
-inserir emojis (colocar dois-pontos e o nome do emoji - emojipedia.org)
+## Insert emojis 
+- colon e o nome do emoji - emojipedia.org)
 
-:vulcan_salute
+:vulcan_salute: :blush: :technologist:
 
-Marcar uma pessoa que tenha GitHub (Usar o arroba @)
+You will find all emoji´s shortcodes [here] (https://github.com/ikatyang/emoji-cheat-sheet) Thanks @ikatyang 
 
-@romulocriston
+## To tag someone:
+- just use @ 
+
+Exemple: @sarahdialmeida
 
 
 
